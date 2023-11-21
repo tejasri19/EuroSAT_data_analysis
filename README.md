@@ -4,7 +4,7 @@
 
 
 #### References:
-1. https://www.kaggle.com/code/nilesh789/land-cover-classification-with-eurosat-dataset
+Some part of our code is borrowed from https://www.kaggle.com/code/nilesh789/land-cover-classification-with-eurosat-dataset
 
 
 If you find our code useful, please cite our work as follows:
