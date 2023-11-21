@@ -8,6 +8,7 @@
 
 
 If you find our code useful, please cite our work as follows:
+
 @inproceedings{nampally2023performance,
   title={Performance Comparison of Multispectral Channels for Land Use Classification},
   author={Nampally, Tejasri and Wu, Jiantao and Dev, Soumyabrata},
