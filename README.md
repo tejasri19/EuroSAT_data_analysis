@@ -9,6 +9,7 @@ Some part of our code is borrowed from https://www.kaggle.com/code/nilesh789/lan
 
 If you find our code useful, please cite our work as follows:
 
+```
 @inproceedings{nampally2023performance,
   title={Performance Comparison of Multispectral Channels for Land Use Classification},
   author={Nampally, Tejasri and Wu, Jiantao and Dev, Soumyabrata},
@@ -16,5 +17,5 @@ If you find our code useful, please cite our work as follows:
   pages={6178--6181},
   year={2023},
   organization={IEEE}
-}
+}```
 
