@@ -1,6 +1,6 @@
-# EuroSAT_data_analysis
+### Github Code of our Paper - PERFORMANCE COMPARISON OF MULTISPECTRAL CHANNELS FOR LAND USE CLASSIFICATION
 
-#### Implemented VGG 16, VGG 19, Resnet 50, Resnet 50 V2 on RGB and multispectral versions of EuroSAT dataset.
+#### ResNet-50, ResNet-101, ResNet-152 on RGB and multispectral versions of EuroSAT dataset.
 
 
 #### References:
